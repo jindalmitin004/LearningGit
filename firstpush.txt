@@ -1,0 +1,2 @@
+Hello All,
+This is the first push using the git commands.
